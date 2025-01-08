@@ -25,7 +25,7 @@ Execute o seguinte comando para iniciar um novo projeto Cypress e instalar as de
 
 'npm init'
 Isso inicializará um projeto Node.js e criará o arquivo "package.json".
-Execute o seguinte comando para instalar o Cypress (versão 13.5.0):
+Execute o seguinte comando para instalar o Cypress (versão 13.7.0):
 
 'npm install cypress@13.17.0 --save-dev'
 Execute o seguinte comando para abrir o Cypress e criar as pastas estruturadas necessárias para o projeto:
